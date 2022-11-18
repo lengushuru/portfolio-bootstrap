@@ -204,9 +204,9 @@ Example:
 
 👤 **Lengushuru**
 
-- GitHub: [@githubhandle](https://github.com/lengushuru)
-- Twitter: [@twitterhandle](https://twitter.com/lengushuru)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lengushuru)
+- GitHub: [@lengushuru](https://github.com/lengushuru)
+- Twitter: [@lengushu](https://twitter.com/lengushuru)
+- LinkedIn: [Lengushuru](https://linkedin.com/in/lengushuru)
 
 👤 **Lethabo**
 
