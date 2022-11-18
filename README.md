@@ -61,11 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[personal porfolio]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="CSS , HTML"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="Bootstrap"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -202,13 +202,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Lengushuru**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/lengushuru)
+- Twitter: [@twitterhandle](https://twitter.com/lengushuru)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lengushuru)
 
-👤 **Author2**
+👤 **Lethabo**
 
 - GitHub: [LethaboMot](https://github.com/LethaboMot)
 - Twitter: [@profcipher](https://twitter.com/profcipher)
